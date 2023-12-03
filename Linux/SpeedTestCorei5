@@ -1,9 +1,0 @@
-Mo 11. Dez 17:45:30 CET 2017
-Module Statistics v.1.0 - Okt 14 2010 Igor Deyneko
-Parameters: testModules.dat, bsubtilis_promoters_250bp.out.bin, bsubtilis_background_250bp.out.bin      MinCoverY 0.50, MaxCoverN 0.25, FreqDiff 1.00 WindowLength 100
-Use local copy of mm.dat
-NumofSeqY=4420, TotalNumOfSitesY=5146932 Time - 1
-NumofSeqN=4421, TotalNumOfSitesN=4256463 Time - 1
-Number of Modules = 500
-All done
-Mo 11. Dez 17:46:46 CET 2017

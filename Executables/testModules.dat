@@ -1,0 +1,7 @@
+Models file for CE sites Igor no relax w0 l0
+Number of Module models = 4
+M 2 = B$Rex_MX000250 B$PerR_MX000258
+M 8 = B$Rex_MX000250 B$Fur_MX000257
+M 12 = B$Spo0A_MX000253 B$PerR_MX000258
+M 23 = B$PerR_MX000258 B$Spo0A_MX000252
+

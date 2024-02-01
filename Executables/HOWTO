@@ -38,11 +38,11 @@ testModules.dat  - test modules for the paper BestCRM
 ----------------------------
   Motif libraires:
 all_PWMs_2017_3.lib    - bacterial
-matrixTFP81.lib       - vertebrate
+matrixTFP64.lib       - vertebrate
 --------------------------------
   Technical files needed for mm.exe 
 all_PWMs10x1k.prf
-all81.prf
+all64.prf
 ProdoricPWMs.prf
 ----------------------------------
   Sequences used here in examples and paper:
@@ -58,9 +58,9 @@ Some notes
 mm.exe:
 
 Windows:
-mm.exe mm.dat example.seq example.out all81.prf
+mm.exe mm.dat example.seq example.out all64.prf
 Linux:
-./mm mm.dat example.seq example.out all81.prf
+./mm mm.dat example.seq example.out all64.prf
 
 To search in your sequence you need to change "example.seq" to your sequence file.
 
